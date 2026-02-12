@@ -1,11 +1,9 @@
 ---
 name: poetic-personification
-description: Transform abstract forces — Death, Time, Fear, Hope, Pain — into characters
-  with agency, personality, and manner. Make them people we can meet, address, resist,
-  or welcome.
+description: Transform abstract forces — Death, Time, Fear, Hope, Pain — into characters with agency, personality, and manner. Make them people we can meet, address, resist, or welcome.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - poetic-personification
